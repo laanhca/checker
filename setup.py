@@ -13,6 +13,7 @@ setup(
   install_requires=[
           'PyAutoGUI',
           'beautifulsoup4',
+          'cryptography'
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',
