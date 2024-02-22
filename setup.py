@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name='av-checker',
   packages=['av-checker'],
-  version='0.1.0',
+  version='0.1.1',
   license='MIT',
   description='check anything',
   author='Anh Van',
